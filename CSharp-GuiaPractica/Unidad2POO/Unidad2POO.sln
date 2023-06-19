@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33027.164
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaPOO", "PracticaPOO\PracticaPOO.csproj", "{6DC71529-231F-45DF-9129-37F9FEBA44C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia2", "PracticaPOO\Herencia2.csproj", "{6DC71529-231F-45DF-9129-37F9FEBA44C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia", "Herencia\Herencia.csproj", "{EF015BFD-DDC9-4216-9496-ED42966FECFC}"
 EndProject

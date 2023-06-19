@@ -4,9 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PracticaPOO
+namespace Herencia
 {
     class Persona
     {
+        public int Legajo { get; set; }
+        public string Apellido { get; set; }
+        public string Nombre { get; set; }
+
+
+
     }
 }
